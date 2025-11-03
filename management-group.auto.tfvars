@@ -196,16 +196,16 @@ management_group_settings = {
       }
     }
   }
-  /*
+  
   # Example of how to add management group role assignments
   management_group_role_assignments = {
     root_owner_role_assignment = {
       management_group_name      = "root"
       role_definition_id_or_name = "Owner"
-      principal_id               = "00000000-0000-0000-0000-000000000000"
+      principal_id               = "21dc4e72-217d-45f3-aad8-d159b8f21793"
     }
   }
-  */
+  
   # role_assignment_name_use_random_uuid = false  # Uncomment this for backwards compatibility with previous naming convention
 }
 
