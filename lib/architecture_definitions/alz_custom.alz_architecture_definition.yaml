@@ -5,7 +5,7 @@ management_groups:
     archetypes:
       - root_custom
     exists: true
-    parent_id: "77efdf0b-86a7-4018-ba12-2e4a979e722f"
+    parent_id:
 
   - id: platform
     display_name: Platform
